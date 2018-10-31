@@ -35,3 +35,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+Coursera WebDev course of 5weeks on HTML5,CSS3 and JS
+Week 1 HTML
+Week 2 HTML and CSS
+Week 3 CSS Bootstrap
+Week 4 Bootstrap and Restaurant page development
+Week 5 JS intro
